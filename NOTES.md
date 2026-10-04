@@ -1,0 +1,3 @@
+2026-10-3: Started project learning HTML for the first time following a tutorial so I can build Quill and then use the skills learnt to build elsewhere. lists.html is a lesson that the course was teaching not apart of the project.
+
+2026-10-04: Learnt how to do embedds onto an html page. Also learnt what hr and br tags are.
