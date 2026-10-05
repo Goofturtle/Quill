@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Journal</title>
+</head>
+<body>
+    <h1>Create New Journal</h1>
+
+    <from action="/api/v1/journals" method="post">
+        <label for="main-title">Journal Title:</label>
+        <input type="main-title" name="title" placeholder="Enter title" required>
+
+        <!-- Never use br tag--use css normally -->
+        <br> 
+
+        <label for="journal-entry">Journal Entry:</label>
+        <textarea id="journal-entry" name="entry" cols="30" rows="5"></textarea>
+
+
+    </from>
+
+</body>
+</html>
