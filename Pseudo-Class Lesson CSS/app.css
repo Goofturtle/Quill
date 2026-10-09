@@ -1,0 +1,64 @@
+/* Just the normal link--Nothing special */
+a:link {
+    color: blue;
+}
+
+
+/* After the user has visited the link */
+a:visited {
+    color: red
+}
+
+
+/* When hovering over the link */
+a:hover {
+    color: green;
+}
+
+
+/* When clicking but still holding the mouse button and not releasing */
+a:active {
+    color: yellow;
+}
+
+
+
+/* GOOD PRACTICE */
+
+/* a:link, a:visited {
+    color: blue;
+}
+
+a:hover, a:active {
+    color: darkblue;
+} */
+
+
+
+
+/* BAD PRACTICE */
+
+/* a {
+    color: blue;
+} */
+
+
+
+
+/* GOOD PRACTICE FOR BUTTONS */
+
+/* .btn:link, .btn:visited {
+    color: blue;
+}
+
+.btn:hover, .btn:active {
+    color: darkblue;
+} */
+
+
+
+
+/* BAD PRACTICE FOR BUTTONS */
+/* .btn {
+    color: blue;
+} */

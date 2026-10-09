@@ -1,0 +1,42 @@
+/* OLD VERSION */
+
+/* h1{
+    color: blue;
+    font-weight: 700;
+    letter-spacing: -2px;
+    font-size: 40px;
+}
+
+h2 {
+    color: blue;
+    font-weight: 700;
+    letter-spacing: -2px;
+    font-size: 40px;
+}
+
+h3 {
+    color: blue;
+    font-weight: 700;
+    letter-spacing: -2px;
+    font-size: 40px;
+} */
+
+/* BETTER VERSION  */
+
+h1, h2, h3 {
+    color: blue;
+    font-weight: 700;
+    letter-spacing: -2px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}

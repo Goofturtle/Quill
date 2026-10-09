@@ -20,4 +20,9 @@ HTML Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in D
 CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in Detail 🔍
 
 
-2026-10-07: 
+2026-10-07: Learnt the basics of CSS like different types inline, embedded, and external. And started applying that to Quill project. Timestamp: 1:13:29
+
+2026-10-08: Learnt about Typeface, font families, colors, color palettes, fonts, font families, and how to use google fonts in CSS and HTML. Timestamp: 2:17:30
+
+2026-10-09: Learning about CSS selectors cascades, grouping selectors, id and class selectors. Timestamp: 2:44:22
+2026-10-09: Learning how to make buttons. Also learning what Pseudo-classes are. Folders that have "Lesson" are well lessons not apart of the project visually but I learned how to combine different parts of CSS into one full visual design using those so thats why I chose to keep them. Timestamp: 3:14:20
