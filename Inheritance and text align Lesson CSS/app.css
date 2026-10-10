@@ -1,0 +1,18 @@
+/* WILL NOT WORK! */
+/* h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+} */
+
+
+/* WILL WORK BECAUSE ALIGNED BY DIV */
+.hero-section {
+    text-align: center;
+}
