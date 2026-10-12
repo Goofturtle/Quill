@@ -28,3 +28,5 @@ CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in De
 2026-10-09: Learning how to make buttons. Also learning what Pseudo-classes are. Folders that have "Lesson" are well lessons not apart of the project visually but I learned how to combine different parts of CSS into one full visual design using those so thats why I chose to keep them. Timestamp: 3:14:20
 
 2026-10-10: Learning about combinator selectors, descendant selectors, adjacent sibling selectors, specificity, inheritance, and how selecting a div to center an inline element treats it as a block being centered inside a box. Also learnt about Inheritance and the universal selector. Timestamp: 4:16:40
+
+2026-10-11: Learning about the CSS box model--HTML element boxes, CSS box model, background color, width and height, and padding. Timestamp: 5:13:24
