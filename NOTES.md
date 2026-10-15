@@ -30,3 +30,7 @@ CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in De
 2026-10-10: Learning about combinator selectors, descendant selectors, adjacent sibling selectors, specificity, inheritance, and how selecting a div to center an inline element treats it as a block being centered inside a box. Also learnt about Inheritance and the universal selector. Timestamp: 4:16:40
 
 2026-10-11: Learning about the CSS box model--HTML element boxes, CSS box model, background color, width and height, and padding. Timestamp: 5:13:24
+
+2026-10-13: Learning about more borders, and also learning how to round boxes using border radius. Timestamp: 5:48:32
+
+2026-10-14: Learning about margins--longhand and shorthand--also learning about how its used ex. whitespace in websites. Timestamp: 6:09:50

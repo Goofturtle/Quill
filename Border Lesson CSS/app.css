@@ -1,0 +1,25 @@
+div {
+    width: 500px;
+    height: 500px;
+    background-color: khaki;
+    /* border: 30px dashed red; */
+    border-top: 10px solid green;
+    border-right: 20px dashed blue;
+    border-bottom: 5px dotted red;
+    border-left: 30px double purple;
+}
+
+.btn-filled {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 20px 40px;
+}
+
+.btn-outline {
+    text-decoration: none;
+    background-color: white;
+    color: blue;
+    padding: 20px 40px;
+    border: 10px solid blue;
+}
