@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* .card {
+    height: 200px;
+    min-width: 800px;
+    background-color: salmon;
+} */
+
+/* Because width of browser exceeds 800px element width will go above 800px */
+
+.no-width {
+    background-color: lightcoral;
+    display: inline-block;
+    text-align: center;
+}
+
+.width {
+    background-color: lightgreen;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+/* Wraps around */
+
+.min-width {
+    background: lightskyblue;
+    display: inline-block;
+    text-align: center;
+    min-width: 200px;
+}
+
+/* Useful for spans as it ensure text does not become too narrow and improves visual consistancy */

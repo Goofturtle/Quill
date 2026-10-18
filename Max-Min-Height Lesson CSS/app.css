@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box-2 {
+    width: 100px;
+    background-color: lightsalmon;
+    min-height: 800px;
+}

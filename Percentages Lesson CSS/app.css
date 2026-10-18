@@ -1,0 +1,19 @@
+/* .parent {
+    height: 500px;
+    width: 1000px;
+    background: lightblue;
+}
+
+.child {
+    height: 500px;
+    width: 50%;
+    background-color: lightsalmon;
+} */
+
+/* Child element is now 50% of parent element */
+
+h1 {
+    font-size: 20px;
+    background-color: lightgreen;
+    line-height: 200%;
+}

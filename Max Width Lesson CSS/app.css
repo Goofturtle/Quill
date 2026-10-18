@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* .container {
+    max-width: 1000px;
+    height: 500px;
+    background-color: lightblue;
+} */
+
+/* Doesn't apply scroll bar when shrinking screen stays the same width as the browser mainly used so that the target item doesn't go narrower and look weird or glitch. */
+
+/* img {
+    max-width: 800px;
+} */
+
+/* Doesn't work */
+
+img {
+    max-width: 800px;
+    width: 100%;
+}
+
+/* Does work because inline elements don't actually expand to fill their width of their container but setting width 100% does make it take up the full container size which is very useful */

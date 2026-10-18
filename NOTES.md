@@ -34,3 +34,10 @@ CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in De
 2026-10-13: Learning about more borders, and also learning how to round boxes using border radius. Timestamp: 5:48:32
 
 2026-10-14: Learning about margins--longhand and shorthand--also learning about how its used ex. whitespace in websites. Timestamp: 6:09:50
+
+2026-10-15: Learning more about margins and starting to learn about display like inline-block. Timestamp: 6:45:03
+2026-10-15: Learning about universal selectors and normalized CSS also learning about auto feature. Timestamp: 7:09:37
+
+2026-10-16: Learning about width, max width and width percentages. Also learning about height, max height, and height in block elements. Just starting to learn about CSS units. Learning about Absolute & relative units. Mostly lessons and explaining for this segment but very useful. Timestamp: 8:26:08
+
+2026-10-17: Learning about CSS variables and CSS calculations. Starting CSS flexbox next! Timestamp: 9:30:54
