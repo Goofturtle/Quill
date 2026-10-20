@@ -41,3 +41,14 @@ CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in De
 2026-10-16: Learning about width, max width and width percentages. Also learning about height, max height, and height in block elements. Just starting to learn about CSS units. Learning about Absolute & relative units. Mostly lessons and explaining for this segment but very useful. Timestamp: 8:26:08
 
 2026-10-17: Learning about CSS variables and CSS calculations. Starting CSS flexbox next! Timestamp: 9:30:54
+
+2026-10-18: Learning about Flexbox like flex direction and axis and how they differ from math. 10:05:19
+
+2026-10-19: Learning justified content proprties, values, and shifting main axis. Timestamp: 10:59:58
+
+2026-10-20: Still learning about justified content and flexbox. Also learning about gap property and box model. Also finished video pt 1
+
+
+CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in Detail 🔍 Part 2 of 2
+
+

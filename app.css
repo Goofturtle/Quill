@@ -101,7 +101,7 @@ Black: #000000 (Black)
     --black: #000000;
 
     /* MISCELLANEOUS */
-    --nav-height: 300px; /* Update the value in the flexbox lesson */
+    --nav-height: 100px; /* Update the value in the flexbox lesson */
 }
 
 * {
@@ -254,6 +254,14 @@ ul {
 
 .navbar {
     height: var(--nav-height);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-btn-container {
+    display: flex;
+    gap: 2rem;
 }
 
 /* ----- HERO SECTION ----- */
@@ -316,7 +324,20 @@ ul {
 /* ----- FOOTER SECTION ----- */
 
 .footer {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.social-icons-container {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.footer-links-container {
+    display: flex;
+    gap: 1rem;
 }
 
 .social-icons {
